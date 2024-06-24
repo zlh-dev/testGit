@@ -18,4 +18,8 @@ public class UserController {
     public void t3(){
 
     }
+    @PostMapping("/")
+    public void masterTest(){
+
+    }
 }
