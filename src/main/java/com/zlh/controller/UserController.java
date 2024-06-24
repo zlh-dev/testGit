@@ -30,4 +30,8 @@ public class UserController {
     public void pushTest(){
 
     }
+    @PostMapping("/")
+    public void pullTest(){
+
+    }
 }
