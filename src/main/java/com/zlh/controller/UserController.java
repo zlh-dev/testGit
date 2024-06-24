@@ -14,4 +14,8 @@ public class UserController {
     public void t2(){
 
     }
+    @PostMapping("/")
+    public void t3(){
+
+    }
 }
