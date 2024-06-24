@@ -9,4 +9,9 @@ public class UserController {
     public void t1(){
 
     }
+
+    @PostMapping("/")
+    public void t2(){
+
+    }
 }
