@@ -22,4 +22,8 @@ public class UserController {
     public void masterTest(){
 
     }
+    @PostMapping("/")
+    public void hotFixTest(){
+
+    }
 }
